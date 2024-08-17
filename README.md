@@ -73,7 +73,3 @@ This project is not licensed.
 ## Contact
 
 For any questions or feedback, please reach out to [Official E-mail](mailto:priyanshu.sharma@adypu.edu.in).
-
-
-```
-
