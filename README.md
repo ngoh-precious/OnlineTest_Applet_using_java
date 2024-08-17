@@ -72,7 +72,7 @@ This project is not licensed.
 
 ## Contact
 
-For any questions or feedback, please reach out to [your-email@example.com](mailto:priyanshu.sharma@adypu.edu.in).
+For any questions or feedback, please reach out to [Official E-mail](mailto:priyanshu.sharma@adypu.edu.in).
 
 
 ```
