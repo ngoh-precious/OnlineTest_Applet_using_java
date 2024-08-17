@@ -77,9 +77,3 @@ For any questions or feedback, please reach out to [Official E-mail](mailto:priy
 
 ```
 
-### Notes:
-- Replace `your-username` with your actual GitHub username.
-- Update the screenshot link if you have one.
-- Adjust the email address in the contact section as needed.
-
-This `README.md` provides clear instructions on how to get started with your application, explains the functionality and code, and invites contributions.
