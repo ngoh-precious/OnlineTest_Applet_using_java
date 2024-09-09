@@ -2,8 +2,9 @@
 
 ```markdown
 # Java Swing Online Test Application
-<br>
-A simple Java Swing application designed to create an online test with multiple-choice questions. This application allows users to navigate through questions, bookmark them for later, and view their results.
+
+A simple Java Swing application designed to create an online test with multiple-choice questions.
+This application allows users to navigate through questions, bookmark them for later, and view their results.
 
 ## Features
 
