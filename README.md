@@ -8,10 +8,10 @@ This application allows users to navigate through questions, bookmark them for l
 
 ## Features
 
-- **Multiple-choice questions:** Present questions with multiple options.
-- **Navigation:** Move to the next question or go back to bookmarked questions.
-- **Bookmarking:** Mark questions to revisit them later.
-- **Results:** Display the total number of correct answers at the end of the test.
+- Multiple-choice questions: Present questions with multiple options.
+- Navigation: Move to the next question or go back to bookmarked questions.
+- Bookmarking: Mark questions to revisit them later.
+- Results: Display the total number of correct answers at the end of the test.
 
 ## Getting Started
 
@@ -23,25 +23,25 @@ To run this application, follow these steps:
 
 ### Installation
 
-1. **Clone the repository:**
+1. Clone the repository:
 
    ```bash
    git clone https://github.com/your-username/java-swing-online-test.git
    ```
 
-2. **Navigate to the project directory:**
+2. Navigate to the project directory:
 
    ```bash
    cd java-swing-online-test
    ```
 
-3. **Compile the Java file:**
+3. Compile the Java file:
 
    ```bash
    javac OnlineTest.java
    ```
 
-4. **Run the application:**
+4. Run the application:
 
    ```bash
    java OnlineTest
